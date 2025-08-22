@@ -67,7 +67,7 @@ The project aimed to investigate a SanDisk flash drive as potential evidence in 
 
 - During the analysis, I discovered a folder labeled “Encrypted”, which appeared to contain sensitive information. Within this folder, files had extensions like .enc.txt and .gpp.txt, suggesting they were encrypted or specially formatted. I tagged these files as notable in Autopsy for further review.
 
-- Problem Solved: This step ensured that potentially critical evidence was flagged for deeper investigation, preventing important files from being overlooked and maintaining a structured approach to case analy
+- Problem Solved: This step ensured that potentially critical evidence was flagged for deeper investigation, preventing important files from being overlooked and maintaining a structured approach to case analysis
 
 <img width="1920" height="1080" alt="Screenshot (404)" src="https://github.com/user-attachments/assets/74e2d04d-dbaa-4ad0-96ec-4e74ba8c3a1a" />
 -  During the investigation, I located a file named invoice_new_goods.Docx. Based on its name and context, it was suspected to contain important information from suppliers. I marked this file as notable in Autopsy for further review and analysis.
