@@ -2,7 +2,7 @@
 
 ## Objective
 
-The project aimed to investigate a SanDisk flash drive as potential evidence in a drug trafficking case. The primary focus was to acquire a forensic image of the device, preserve the integrity of the original evidence, and analyze the data using Autopsy. The investigation involved recovering deleted files, examining metadata, and performing keyword searches related to trafficking activity. This hands on case simulation was designed to strengthen understanding of digital forensics procedures, chain-of-custody documentation, and evidence reporting for criminal investigations.
+The project aimed to investigate a SanDisk flash drive as potential evidence in a drug trafficking case. The primary focus was to acquire a forensic image of the device, preserve the integrity of the original evidence, and analyze the data using Autopsy. The investigation involved recovering deleted files, examining metadata, and performing keyword searches related to trafficking activity. This hands on case simulation was designed to strengthen understanding of digital forensics procedures, chain of custody documentation, and evidence reporting for criminal investigations.
 
 ### Skills Learned
 - 🕵️ Proficiency in using Autopsy for forensic analysis.
@@ -11,7 +11,7 @@ The project aimed to investigate a SanDisk flash drive as potential evidence in 
 
 - 🔍 Recovery and examination of deleted files and hidden data.
 
-- 📜 Understanding and documentation of chain-of-custody procedures.
+- 📜 Understanding and documentation of chain of custody procedures.
 
 - 📝 Enhanced skills in writing professional forensic investigation reports
 - 🧠 Development of analytical thinking for correlating evidence with case co
