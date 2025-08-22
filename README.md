@@ -111,3 +111,6 @@ The project aimed to investigate a SanDisk flash drive as potential evidence in 
 
 - Problem Solved: Generating this report consolidated all findings into a structured, professional document, providing a clear overview of the investigation and creating a record suitable for case review or presentation.
 
+<img width="1920" height="917" alt="Screenshot (415)" src="https://github.com/user-attachments/assets/0d817a4d-7e3a-45e9-97f4-a576a9f73025" />
+
+The above image contains a bit of my documented report, this was written to ensure transparency during the investigation. It also enables new Personel to understand the neccessary steps I took during Forensic investigation in-case they need any information about the case
