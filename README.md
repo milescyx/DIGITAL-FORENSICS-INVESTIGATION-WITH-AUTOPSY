@@ -69,14 +69,14 @@ The project aimed to investigate a SanDisk flash drive as potential evidence in 
 - Problem Solved: This step ensured that potentially critical evidence was flagged for deeper investigation, preventing important files from being overlooked and maintaining a structured approach to case analy
 
 <img width="1920" height="1080" alt="Screenshot (404)" src="https://github.com/user-attachments/assets/74e2d04d-dbaa-4ad0-96ec-4e74ba8c3a1a" />
-- During the investigation, I located an Excel file named invoice_new_goods.xlsx. Based on its name and context, it was suspected to contain important information from suppliers. I marked this file as notable in Autopsy for further review and analysis.
+- During the investigation, I located a file named invoice_new_goods.Docx. Based on its name and context, it was suspected to contain important information from suppliers. I marked this file as notable in Autopsy for further review and analysis.
 
 <img width="1920" height="1080" alt="Screenshot (405)" src="https://github.com/user-attachments/assets/f24d3808-2304-4b6b-9540-c992725e695d" />
 
 - Problem Solved: By tagging this document, I ensured that potentially crucial financial or transactional evidence was highlighted, making it easier to correlate with other findings in the case.
  During the analysis, I discovered two text files: client.txtx and debt.txt. Based on their filenames, these files were suspected to contain customer related information. I tagged both files as notable in Autopsy for further examination.
 
-- Problem Solved: Tagging these files ensured that potential customer and debt-related evidence was clearly identified and preserved for correlation with other case data.
+- Problem Solved: Tagging these files ensured that potential customer and debt related evidence was clearly identified and preserved for correlation with other case data.
 
   
   <img width="1920" height="1080" alt="Screenshot (407)" src="https://github.com/user-attachments/assets/ba21e7e9-59ab-42ef-9663-0044f40459ff" />
@@ -89,7 +89,7 @@ ation and providing a more complete picture of the digital activity related to t
 
 - During the analysis, I identified images depicting buildings and locations that appeared relevant to the investigation. I tagged these images as notable, as they could provide information about suspected meet-up points or transaction sites.
 
-- Problem Solved: Highlighting these images ensured that location-based evidence was preserved, supporting the reconstruction of events and potential links between suspects and physical locations.<img width="1920" height="1080" alt="Screenshot (410)" src="https://github.com/user-attachments/assets/676b2d1f-dbad-44fb-b26a-4944a88277c7" />
+- Problem Solved: Highlighting these images ensured that location based evidence was preserved, supporting the reconstruction of events and potential links between suspects and physical locations.<img width="1920" height="1080" alt="Screenshot (410)" src="https://github.com/user-attachments/assets/676b2d1f-dbad-44fb-b26a-4944a88277c7" />
 
 - During the investigation, I discovered a fake text file disguised as a video file. Upon inspection, the file contained sensitive information such as shipping details related to the suspected criminal activity. I tagged this file as notable in Autopsy for further review.
 
