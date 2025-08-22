@@ -33,7 +33,13 @@ The project aimed to investigate a SanDisk flash drive as potential evidence in 
 -  I implemented a software based write blocker using Windows Registry Editor (Regedit) to ensure that the original evidence files remained unaltered during the disk imaging process. By applying this configuration, the system was prevented from making any write operations to the evidence drive.
 
 
--  Problem Solved: This step safeguarded the integrity of digital evidence, ensuring compliance with forensic best practices and maintaining a reliable chain of custody.  
+-  Problem Solved: This step safeguarded the integrity of digital evidence, ensuring compliance with forensic best practices and maintaining a reliable chain of custody.
+
+
+
+
+
+
 
 
 <img width="1920" height="1080" alt="Screenshot (386)" src="https://github.com/user-attachments/assets/77ab0730-e039-4056-90e0-f062c0e2a678" />
@@ -101,6 +107,4 @@ ation and providing a more complete picture of the digital activity related to t
 - Timeline of file activity
 
 - Problem Solved: Generating this report consolidated all findings into a structured, professional document, providing a clear overview of the investigation and creating a record suitable for case review or presentation.
- - AUTOPSY REPORT BELOW
 
-[report.html](https://github.com/user-attachments/files/21936974/report.html)
