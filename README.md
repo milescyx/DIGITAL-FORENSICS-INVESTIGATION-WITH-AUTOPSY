@@ -88,7 +88,7 @@ The project aimed to investigate a SanDisk flash drive as potential evidence in 
 - Problem Solved: This step ensured that hidden or intentionally deleted evidence was retrieved, preventing loss of critical case information and providing a more complete picture of the digital activity related to the investigation.<img width="1920" height="1080" alt="Screenshot (408)" src="https://github.com/user-attachments/assets/b9ffeb18-5e9b-49cc-bb59-169c893e0077" />
 
 
-- During the analysis, I identified images depicting buildings and locations that appeared relevant to the investigation. I tagged these images as notable, as they could provide information about suspected meet-up points or transaction sites.
+- During the analysis, I identified images depicting buildings and locations that appeared relevant to the investigation. I tagged these images as notable, as they could provide information about suspected meet up points or transaction sites.
 
 - Problem Solved: Highlighting these images ensured that location based evidence was preserved, supporting the reconstruction of events and potential links between suspects and physical locations.<img width="1920" height="1080" alt="Screenshot (410)" src="https://github.com/user-attachments/assets/676b2d1f-dbad-44fb-b26a-4944a88277c7" />
 
