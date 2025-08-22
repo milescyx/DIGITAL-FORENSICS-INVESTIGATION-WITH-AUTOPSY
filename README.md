@@ -71,6 +71,8 @@ The project aimed to investigate a SanDisk flash drive as potential evidence in 
 
 <img width="1920" height="1080" alt="Screenshot (404)" src="https://github.com/user-attachments/assets/74e2d04d-dbaa-4ad0-96ec-4e74ba8c3a1a" />
 -  During the investigation, I located a file named invoice_new_goods.Docx. Based on its name and context, it was suspected to contain important information from suppliers. I marked this file as notable in Autopsy for further review and analysis.
+
+
 -  Problem Solved: By tagging this document, I ensured that potentially crucial financial or transactional evidence was highlighted, making it easier to correlate with other findings in the case.
 
 <img width="1920" height="1080" alt="Screenshot (405)" src="https://github.com/user-attachments/assets/f24d3808-2304-4b6b-9540-c992725e695d" />
