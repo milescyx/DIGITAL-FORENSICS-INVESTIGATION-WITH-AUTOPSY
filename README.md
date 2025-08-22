@@ -89,3 +89,32 @@ ation and providing a more complete picture of the digital activity related to t
 
 - Problem Solved: Identifying this decoy file ensured that hidden or misleading evidence was not overlooked, preserving critical information about transactions and shipments relevant to the case.
 <img width="1920" height="1080" alt="Screenshot (411)" src="https://github.com/user-attachments/assets/a0ed60a5-0735-4868-981d-bfdaf76f93b7" />
+
+- After completing the analysis, tagging notable files, and recovering deleted data, I used Autopsy’s reporting feature to generate a comprehensive case report. The report included:
+
+- Recovered and notable files
+
+- Tagged images and documents
+
+- File paths and metadata
+
+- Timeline of file activity
+
+- Problem Solved: Generating this report consolidated all findings into a structured, professional document, providing a clear overview of the investigation and creating a record suitable for case review or presentation.
+ - AUTOPSY REPORT BELOW
+
+[report.html](https://github.com/user-attachments/files/21936831/report.html)
+<head>
+<title>Autopsy Forensic Report for case CASE-2025-DFU</title>
+<link rel="icon" type="image/ico" href="contentfavicon.ico" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<frameset cols="350px,*">
+<frame src="content\nav.html" name="nav">
+<frame src="content\summary.html" name="content">
+<noframes>Your browser is not compatible with our frame setup.<br />
+Please see <a href="content
+av.html">the navigation page</a> for artifact links,<br />
+and <a href="contentsummary.html">the summary page</a> for a case summary.</noframes>
+</frameset>
+</html>
