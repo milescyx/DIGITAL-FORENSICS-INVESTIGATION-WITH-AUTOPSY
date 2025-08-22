@@ -36,9 +36,33 @@ The project aimed to investigate a SanDisk flash drive as potential evidence in 
 -  Problem Solved: This step safeguarded the integrity of digital evidence, ensuring compliance with forensic best practices and maintaining a reliable chain of custody.  
 
 
+<img width="1920" height="1080" alt="Screenshot (386)" src="https://github.com/user-attachments/assets/77ab0730-e039-4056-90e0-f062c0e2a678" />
+
+- I created a dedicated folder on my W: Drive to store all files related to the investigation. This ensured that the case data was kept separate from the system’s main drive (C:), reducing the risk of accidental modification or corruption of evidence.
+- Problem Solved: By isolating the investigation files from the main disk, I maintained data integrity and organization, which is critical in forensic investigations.
+
 <img width="1920" height="1080" alt="Screenshot (392)" src="https://github.com/user-attachments/assets/93d9fa77-79d8-4e8c-bc60-6af0527e9828" />
 
 - I used FTK Imager to create a forensic disk image of the target drive. The tool allowed me to capture a bit-for-bit copy of the evidence drive, ensuring that all data, including hidden and deleted files, was preserved.
 
 - Problem Solved: This step created a forensically sound replica of the original evidence, allowing me to perform further analysis without risking alteration of the original data.
+<img width="1920" height="1080" alt="Screenshot (394)" src="https://github.com/user-attachments/assets/9d810400-c08e-45ce-b9b5-973dd1b9d5ab" />
+- The disk image was created successfully and I stored it in this folder on my W: Drive
+<img width="1920" height="1080" alt="Screenshot (395)" src="https://github.com/user-attachments/assets/6b96e263-8a4c-4911-b193-669dad7d1087" />
+-After creating the disk image, I loaded the evidence file into Autopsy. During the case setup, I selected the necessary modules that were relevant to this investigation, such as File Type Identification, Hash Lookup, and Keyword Search.
 
+- Problem Solved: This step allowed me to automate evidence extraction and analysis, ensuring that critical artifacts (deleted files, file types, and suspicious data) were efficiently identified for further examination.
+<img width="1920" height="1080" alt="Screenshot (400)" src="https://github.com/user-attachments/assets/4319bd68-e00d-4ad1-acb3-6f2be7ff4907" />
+-Since this was a drug related investigation, I created a custom keyword list in Autopsy. The list included terms connected to drugs, which helped narrow down the search and detect relevant digital evidence more efficiently.
+
+- Problem Solved: By creating a focused keyword list, I ensured that the search targeted drug related communications, files, and financial transactions, instead of wasting time on irrelevant data. This increased both the accuracy and speed of the investigation.
+<img width="1920" height="1080" alt="Screenshot (403)" src="https://github.com/user-attachments/assets/a88ae9dd-8bf1-4151-9d3e-9f1f667287dd" />
+
+- During the analysis, I discovered a folder labeled “Encrypted”, which appeared to contain sensitive information. Within this folder, files had extensions like .enc.txt and .gpp.txt, suggesting they were encrypted or specially formatted. I tagged these files as notable in Autopsy for further review.
+
+- Problem Solved: This step ensured that potentially critical evidence was flagged for deeper investigation, preventing important files from being overlooked and maintaining a structured approach to case analy
+
+<img width="1920" height="1080" alt="Screenshot (404)" src="https://github.com/user-attachments/assets/74e2d04d-dbaa-4ad0-96ec-4e74ba8c3a1a" />
+- During the investigation, I located an Excel file named invoice_new_goods.xlsx. Based on its name and context, it was suspected to contain important information from suppliers. I marked this file as notable in Autopsy for further review and analysis.
+
+- Problem Solved: By tagging this document, I ensured that potentially crucial financial or transactional evidence was highlighted, making it easier to correlate with other findings in the case.
