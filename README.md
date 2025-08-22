@@ -53,7 +53,7 @@ The project aimed to investigate a SanDisk flash drive as potential evidence in 
 
 - Problem Solved: This step allowed me to automate evidence extraction and analysis, ensuring that critical artifacts (deleted files, file types, and suspicious data) were efficiently identified for further examination.
 <img width="1920" height="1080" alt="Screenshot (400)" src="https://github.com/user-attachments/assets/4319bd68-e00d-4ad1-acb3-6f2be7ff4907" />
--Since this was a drug related investigation, I created a custom keyword list in Autopsy. The list included terms connected to drugs, which helped narrow down the search and detect relevant digital evidence more efficiently.
+- Since this was a drug related investigation, I created a custom keyword list in Autopsy. The list included terms connected to drugs, which helped narrow down the search and detect relevant digital evidence more efficiently.
 
 - Problem Solved: By creating a focused keyword list, I ensured that the search targeted drug related communications, files, and financial transactions, instead of wasting time on irrelevant data. This increased both the accuracy and speed of the investigation.
 <img width="1920" height="1080" alt="Screenshot (403)" src="https://github.com/user-attachments/assets/a88ae9dd-8bf1-4151-9d3e-9f1f667287dd" />
@@ -65,4 +65,27 @@ The project aimed to investigate a SanDisk flash drive as potential evidence in 
 <img width="1920" height="1080" alt="Screenshot (404)" src="https://github.com/user-attachments/assets/74e2d04d-dbaa-4ad0-96ec-4e74ba8c3a1a" />
 - During the investigation, I located an Excel file named invoice_new_goods.xlsx. Based on its name and context, it was suspected to contain important information from suppliers. I marked this file as notable in Autopsy for further review and analysis.
 
+<img width="1920" height="1080" alt="Screenshot (405)" src="https://github.com/user-attachments/assets/f24d3808-2304-4b6b-9540-c992725e695d" />
+
 - Problem Solved: By tagging this document, I ensured that potentially crucial financial or transactional evidence was highlighted, making it easier to correlate with other findings in the case.
+ During the analysis, I discovered two text files: client.txtx and debt.txt. Based on their filenames, these files were suspected to contain customer related information. I tagged both files as notable in Autopsy for further examination.
+
+- Problem Solved: Tagging these files ensured that potential customer and debt-related evidence was clearly identified and preserved for correlation with other case data.
+
+  
+  <img width="1920" height="1080" alt="Screenshot (407)" src="https://github.com/user-attachments/assets/ba21e7e9-59ab-42ef-9663-0044f40459ff" />
+
+- Using Autopsy’s file carving and unallocated space analysis, I successfully recovered multiple deleted files from the disk image. These files included documents, spreadsheets, and text files that were no longer visible in the normal file system.
+
+- Problem Solved: This step ensured that hidden or intentionally deleted evidence was retrieved, preventing loss of critical case inform<img width="1920" height="1080" alt="Screenshot (408)" src="https://github.com/user-attachments/assets/b9ffeb18-5e9b-49cc-bb59-169c893e0077" />
+ation and providing a more complete picture of the digital activity related to the investigation.
+<img width="1920" height="1080" alt="Screenshot (409)" src="https://github.com/user-attachments/assets/18b31268-4c39-49dc-8757-12fe3f40aaac" />
+
+- During the analysis, I identified images depicting buildings and locations that appeared relevant to the investigation. I tagged these images as notable, as they could provide information about suspected meet-up points or transaction sites.
+
+- Problem Solved: Highlighting these images ensured that location-based evidence was preserved, supporting the reconstruction of events and potential links between suspects and physical locations.<img width="1920" height="1080" alt="Screenshot (410)" src="https://github.com/user-attachments/assets/676b2d1f-dbad-44fb-b26a-4944a88277c7" />
+
+- During the investigation, I discovered a fake text file disguised as a video file. Upon inspection, the file contained sensitive information such as shipping details related to the suspected criminal activity. I tagged this file as notable in Autopsy for further review.
+
+- Problem Solved: Identifying this decoy file ensured that hidden or misleading evidence was not overlooked, preserving critical information about transactions and shipments relevant to the case.
+<img width="1920" height="1080" alt="Screenshot (411)" src="https://github.com/user-attachments/assets/a0ed60a5-0735-4868-981d-bfdaf76f93b7" />
