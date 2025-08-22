@@ -83,9 +83,8 @@ The project aimed to investigate a SanDisk flash drive as potential evidence in 
 
 - Using Autopsy’s file carving and unallocated space analysis, I successfully recovered multiple deleted files from the disk image. These files included documents, spreadsheets, and text files that were no longer visible in the normal file system.
 
-- Problem Solved: This step ensured that hidden or intentionally deleted evidence was retrieved, preventing loss of critical case inform<img width="1920" height="1080" alt="Screenshot (408)" src="https://github.com/user-attachments/assets/b9ffeb18-5e9b-49cc-bb59-169c893e0077" />
-ation and providing a more complete picture of the digital activity related to the investigation.
-<img width="1920" height="1080" alt="Screenshot (409)" src="https://github.com/user-attachments/assets/18b31268-4c39-49dc-8757-12fe3f40aaac" />
+- Problem Solved: This step ensured that hidden or intentionally deleted evidence was retrieved, preventing loss of critical case information and providing a more complete picture of the digital activity related to the investigation.<img width="1920" height="1080" alt="Screenshot (408)" src="https://github.com/user-attachments/assets/b9ffeb18-5e9b-49cc-bb59-169c893e0077" />
+
 
 - During the analysis, I identified images depicting buildings and locations that appeared relevant to the investigation. I tagged these images as notable, as they could provide information about suspected meet-up points or transaction sites.
 
